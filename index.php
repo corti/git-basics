@@ -5,4 +5,5 @@ function toto($n)
     echo "Example function.\n";
     return $n;
 }
+echo 'good job!';
 ?>
