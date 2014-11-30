@@ -2,4 +2,9 @@
 Include_pwd.inc.php
 =======
 .DS_Store
+.htaccess
+*.psd
+*.ai
+*.log
+
 >>>>>>> FETCH_HEAD
