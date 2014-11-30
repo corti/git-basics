@@ -6,5 +6,6 @@ Include_pwd.inc.php
 *.psd
 *.ai
 *.log
+*.txt
 
 >>>>>>> FETCH_HEAD
